@@ -1,3 +1,7 @@
+# dataset
+TinyStoriesV2-GPT4-train.txt
+TinyStoriesV2-GPT4-valid.txt
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
